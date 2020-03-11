@@ -312,7 +312,7 @@ function receiveMessage (param) {
           return fixReceivedMessage(message)
         }))
       } else {
-        return Promise.resolve();
+        return Promise.resolve([]);
       }
     })
 }
