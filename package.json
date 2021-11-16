@@ -18,7 +18,7 @@
     "mocha": "^7.1.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.626.0",
+    "aws-sdk": "^2.814.0",
     "debug": "^4.1.1",
     "uuidv4": "^6.0.5"
   }
